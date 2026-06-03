@@ -44,13 +44,13 @@ Stores the last 5 interactions and provides contextual responses.
 #### Calculator Tool
 
 ```text
-calculate 25*17
+calculate  39093899*3298408
 ```
 
 Output:
 
 ```text
-425
+128947629212792
 ```
 
 #### Task Manager Tool
@@ -70,16 +70,16 @@ Output:
 Input:
 
 ```text
-/extract John is 25 and lives in Mumbai
+/extract NIKHIL is 21 and lives in surat
 ```
 
 Output:
 
 ```json
 {
-    "name": "John",
-    "age": 25,
-    "city": "Mumbai"
+    "name": "NIKHIL",
+    "age": 21,
+    "city": "Surat"
 }
 ```
 
@@ -159,7 +159,7 @@ Cortex_CLI/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Cortex_CLI.git
+git clone https://github.com/NikDev345/Cortex_CLI.git
 ```
 
 ### Install Dependencies
